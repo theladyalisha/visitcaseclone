@@ -1,0 +1,4 @@
+﻿  SenderTest.cpp
+c:\bootcampstuff\visit-case-s1b6\casestudy\sender\sender.h(15): warning C4018: '<': signed/unsigned mismatch
+  SenderTest.vcxproj -> C:\BootcampStuff\visit-case-s1b6\CaseStudy\Debug\SenderTest.exe
+  SenderTest.vcxproj -> C:\BootcampStuff\visit-case-s1b6\CaseStudy\Debug\SenderTest.pdb (Partial PDB)
